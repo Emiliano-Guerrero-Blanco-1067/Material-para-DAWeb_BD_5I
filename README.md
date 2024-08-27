@@ -11,3 +11,11 @@ Tenemos link de referencia mas documentos Agosto 2024
 
 - Esta web contiene materiales curriculares (lecciones, ejercicios, exámenes, etc)
 - https://www.mclibre.org/
+
+  ## Framework y lenguaje de programacion 
+- paginas web para programacion
+- https://www.w3schools.com/
+- Python
+
+- descargar python
+- https://www.python.org/downloads/
